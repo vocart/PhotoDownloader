@@ -1,0 +1,1 @@
+PhotoDownloader is a short program that automates downloading photos from a camera. It creates a new directory, downloads there files, removes photos from a camera and sorts them by type in folders (jpg and raw files separately).
